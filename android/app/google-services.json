@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819995669669",
+    "project_id": "eticket-smkmq-f8f50",
+    "storage_bucket": "eticket-smkmq-f8f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819995669669:android:50a1cef7ab673165e4c94c",
+        "android_client_info": {
+          "package_name": "com.example.eticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819995669669-8fmbd2cpgp85vm2rajnd6lrton3mp39k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Sapgn1s1jWpIrHAdw7-76rKHOC3kELw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819995669669-8fmbd2cpgp85vm2rajnd6lrton3mp39k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
